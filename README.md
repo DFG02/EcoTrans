@@ -13,7 +13,7 @@ Desarrollar una solución integral que permita:
 - Facturación automatizada.
 - Generación de reportes y KPIs.
 
-## 🛠Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Frontend:** Flutter (multiplataforma)
 - **Backend:** Node.js / Express (por definir)
